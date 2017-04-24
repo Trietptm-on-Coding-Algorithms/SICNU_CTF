@@ -8,4 +8,5 @@
 ### 环境
 ubuntu + flask + nginx + sqlite
 
-
+### 参考链接
+[一键部署 CTF 平台](https://github.com/semprix/CTFIgniter)
