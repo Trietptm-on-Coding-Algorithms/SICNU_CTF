@@ -1,0 +1,13 @@
+n=p*q
+m=p*q+2(p+q)+4
+2(p+q)=n2-p*q-4
+p+q=(m-n-4)/2
+
+(p-1)*(q-1) in d1 = p*q-(p+q)+1
+(p+1)*(q+1) in d1 = p*q+(p+q)+1
+
+https://kel.bz/post/twinprimes/
+
+http://katc.hateblo.jp/entry/2016/09/06/232252
+
+https://www.megabeets.net/twctf-2016-crypto-twin-primes/
